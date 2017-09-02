@@ -17,12 +17,12 @@ Following programs are writted by me:
 	Surface_Detection_With_Snake.m: using active contour model algorithm
 		(also called snake) to find the upper surface of the OCT image.
 
-	This function is written by Dr. Peijun Gong from OBEL:
+This function is written by Dr. Peijun Gong from OBEL:
 
 	Preprocessing_PG.m: extract a B-scan from a 3D OCT model and calls
 		functions from above to further process each B-scan.
 
-These data are also provided by Dr.Peijun Gong:
+These data are also provided by Dr.Peijun Gong, not currently contained in this repo since oversize:
 
 	2016_05_31_Eye_2_Location_3_1_3D
 	2016_11_08_Eye_1_Location_1_Model3D
@@ -32,5 +32,4 @@ And the result of testing functions I developed with each data Dr.Gong provided 
 
 
 Weifan Jiang
-University of Washington
 8.18.2018
